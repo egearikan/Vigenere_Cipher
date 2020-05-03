@@ -5,7 +5,7 @@ Vigenere Cipher is a method of encrypting alphabetic text. It uses a simple form
 How to use it:
 
 1. When you run the code UI will look like the picture in repository
-2. The first box at the top is for the key where the key is is default EGE if you do not type anything
+2. The first box at the top is for the key where the key is EGE in default if you do not type anything
 3. The middle box is for the message that you want to enc. or dec. 
 4. Last box is for the output (you do not need to do anything) 
 
